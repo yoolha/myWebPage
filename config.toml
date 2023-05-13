@@ -48,7 +48,7 @@ author = "hi"
   # This contains the contact information for the footer
   [params.footer]
   email = "test@kau.ac.kr"
-  address = "대한민국 경기도 고양시"
+  address = "대한민국 경기도 고양시임"
 
 [markup]
   [markup.highlight]
