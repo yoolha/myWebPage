@@ -40,7 +40,7 @@ theme="hugo-developer-portfolio"
 home = "Home" # What you want the homepage to show up as in the menu bar
 # Meta data
 description = "홍길동의 웹사이트, 한국한공대학교 소프트웨어학과 2학녕"
-author = "홍길동"
+author = "hi"
 
   [params.contact]
   formAction = "https://formspree.io/<Insert code>" # Add your formspree URL here to get emails
