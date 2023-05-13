@@ -6,7 +6,7 @@ author : "Sam Robbins"
 authorImage : "images/about/profile.jpg"
 ---
 
-Hi! I'm Sam, a second year Computer Science student from Durham University. 
+hello! I'm Sam, a second year Computer Science student from Durham University. 
 I like doing personal projects, which you will find in the portfolio page of this website. 
 My specialties can be found on the homepage, of which most are web development or cyber security.
 
