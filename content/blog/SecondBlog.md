@@ -6,6 +6,7 @@ draft: true
 
 -자료구조 10주차 실습
 
+```bash
 #include <iostream>
 #include <queue>
 #include <string>
@@ -162,3 +163,4 @@ Name: Alice, Position: Manager
 
     return 0;
 }
+```
