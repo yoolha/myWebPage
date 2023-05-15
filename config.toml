@@ -1,4 +1,4 @@
-baseURL = 'https://yoolha.github.io/'
+ baseURL = 'https://yoolha.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme="hugo-developer-portfolio"
